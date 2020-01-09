@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/skadnr3947/-.git
+git pull
+git status
+git add .
+git commit -m "kang"
