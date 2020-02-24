@@ -4,3 +4,5 @@ git pull
 git status
 git add .
 git commit -m "kang"
+git push origin master
+git test
