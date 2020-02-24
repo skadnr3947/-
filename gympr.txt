@@ -1,0 +1,14 @@
+
+1. 아나콘다에서 가상환경 생성
+
+$ conda create -n gym python=3.5 anaconda
+---->y
+
+2. 가상환경 접속
+$ source activate gym
+
+3. 기본환경 설치
+$ pip install gym
+
+-->콘다 네비케이터 gym 설정 선택 후 주피터 노트북 실행
+

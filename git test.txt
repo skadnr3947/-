@@ -4,5 +4,7 @@ git pull
 git status
 git add .
 git commit -m "kang"
+git push --set-upstream origin matser
 git push origin master
+
 git test
